@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# 123.hp.com/setup
 
-You can use the [editor on GitHub](https://github.com/hpcom123setup/hpcom123setup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![123.hp.com/setup](Get-Started-Now-Button3.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HP printers offer first-class facilities to its users worldwide. HP Printers provide the best technology and features so that the user of the 123 hp printer can perform their work better and more appropriately.  Go to the hp printer official website:[123.hp.com/setup](https://hpcom123setup.github.io/) and enter model number and download your desired product to enjoy printing high quality documents. 
 
-### Markdown
+##  Downloading Procedure of HP Printer Driver
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**You can download hp printer drivers for your device from the hp printer driver official website and follow the steps given below:**
 
-```markdown
-Syntax highlighted code block
+1. Switch on your printer and computer.
+2. Make sure that they are connected to the same wireless network (Applicable for wirelessly enabled printers)
+3. Next, open a browser of your choice on your system and go to [123.hp.com/setup](https://hpcom123setup.github.io/)
+4. Enter the name of your printer along with its model number. For example, Officejet 38.
+5. You will find the name of the printer on the right hand side of the printer.
+6. Click the Download button and wait for the software to be downloaded.
 
-# Header 1
-## Header 2
-### Header 3
+## How To Install HP Wireless Printer via CD Media?
 
-- Bulleted
-- List
+**The installation procedure of an HP wireless printer into your operating system completes in just a few steps. Follow them accordingly:**
 
-1. Numbered
-2. List
+1. Insert the CD in your Disk Drive
+2. Click on the **‘Start’** button and go to the ‘Computers’
+3. Double click on **‘CD Driver.’** and open it.
+4. Hit the button of ‘Run’ after reading and agreeing with the ‘Terms and Conditions’
+5. Follow the on-screen instruction, if any and the installation process will complete
+6. Now, you can scan and print any document via your new HP printer.
 
-**Bold** and _Italic_ and `Code` text
+**Note:** You must ensure that the CD has no scratches.
 
-[Link](url) and ![Image](src)
-```
+## How to Setup A Wireless Printer on your Mac ?
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hpcom123setup/hpcom123setup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Click on the Apple symbol and then, click System Preferences.
+2. Then Click on the Printers & Scanners icon.
+3. Click the plus **“+”** symbol to add the printer.
+4. A new window will open. Click on the IP icon at the top and fill the necessary data.
+5. Add the printer to your PC and it has to appear in your printers list once configuration is done. 
