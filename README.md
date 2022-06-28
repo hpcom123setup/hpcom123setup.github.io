@@ -1,6 +1,6 @@
 # 123.hp.com/setup
 
-[![123.hp.com/setup](Get-Started-Now-Button3.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](lets-get-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 HP printers offer first-class facilities to its users worldwide. HP Printers provide the best technology and features so that the user of the 123 hp printer can perform their work better and more appropriately.  Go to the hp printer official website:[123.hp.com/setup](https://hpcom123setup.github.io/) and enter model number and download your desired product to enjoy printing high quality documents. 
 
